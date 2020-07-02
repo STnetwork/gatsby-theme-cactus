@@ -18,4 +18,5 @@ fields:
   name: tags
   label: tags
 pages:
+- demo/content/posts/centmin-mod-lemp-web-stack-yum-updates-auto-centos-7.md
 - demo/content/posts/hello-world-test.md
